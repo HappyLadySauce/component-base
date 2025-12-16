@@ -1,4 +1,4 @@
-module github.com/marmotedu/component-base
+module github.com/HappyLadySauce/component-base
 
 go 1.17
 

@@ -5,7 +5,7 @@ Scheme, typing, encoding, decoding, and conversion packages for IAM and IAM-like
 ## Purpose
 
 This library is a shared dependency for servers and clients to work with IAM API infrastructure without direct
-type dependencies. Its first consumers are `github.com/marmotedu/component-base`, `github.com/marmotedu/marmotedu-sdk-go`.
+type dependencies. Its first consumers are `github.com/HappyLadySauce/component-base`, `github.com/marmotedu/marmotedu-sdk-go`.
 
 
 ## Compatibility

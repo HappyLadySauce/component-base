@@ -11,4 +11,4 @@
 //   (e.g. LabelSelector).
 // In the future, we will probably move these categories of objects into
 // separate packages.
-package v1 // import "github.com/marmotedu/component-base/pkg/meta/v1"
+package v1 // import "github.com/HappyLadySauce/component-base/pkg/meta/v1"
